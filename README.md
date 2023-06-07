@@ -24,4 +24,6 @@
     OLED SCL = A4 (Find I2C pins for your board if your not using an arduino nano/uno.)
     
     Schematic will be saved in the file WIRING.PNG 📸
+    ![WIRING](https://github.com/NotHavocc/ArduinoSynth/assets/135747967/eeaa5bcf-70fa-4480-855c-833ee231b084)
+
    ***
