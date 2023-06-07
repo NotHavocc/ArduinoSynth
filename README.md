@@ -22,9 +22,10 @@
     Potenciometer = A0,
     OLED SDA = A5,
     OLED SCL = A4 (Find I2C pins for your board if your not using an arduino nano/uno.)
-    Schematic will be saved as the file WIRING.PNG 📸
+    Schematic will be saved as the file WIRING (2).PNG 📸
     
-   ![WIRING](https://github.com/NotHavocc/ArduinoSynth/assets/135747967/b6a3eba0-5897-4246-8dff-dd635c7dff8b)
+   ![WIRING (2)](https://github.com/NotHavocc/ArduinoSynth/assets/135747967/836d5792-fe51-4256-9b05-6646dc761a45)
+
 
 
 
